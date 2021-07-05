@@ -1,0 +1,265 @@
+/* #17111D */
+body{
+    background-color: white;
+
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+
+}
+
+.ifactory{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    border-radius: 100px 100px 0 0;
+    background-color: #17111D;
+    align-items: center;
+}
+
+.dotted{
+    /* border-color: white;
+    border-bottom: 3px dotted rgb(253, 12, 12);
+    border-right: 3px dotted rgb(238, 16, 16);
+    border-radius: 50px;
+    display: block;
+    height: 500%;
+    width: 200%; */
+
+    /* border-top: 2px #000 dotted;
+    width: 700px;
+
+    /* border-color: white; */
+    /* border-radius: 20px; */
+    /* margin-top: 0px;
+    margin-bottom: 0px; */ */
+}
+
+.dotted2{
+    position: absolute;
+    border-right: 2px dotted;
+    border-color: rgb(243, 243, 245);
+    width: 400px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.factory{
+    background-color: #17111D;
+    padding: 50px;
+    margin-bottom: 0px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.scrolling{
+    display: flex;
+    background-color: #17111D;
+    word-spacing: 20px;
+    line-height: 5;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+    height: 20%;
+
+
+
+}
+.long{
+    margin-bottom: 90px;
+}
+
+.mouse{
+
+    width: 90px;
+    height: 90px;
+    display: flex;
+    margin: auto;
+
+}
+/* .lv{
+    border-right: 2px white dotted;
+    margin-right: 20px;
+    height: 400px;
+    position: absolute;
+    justify-content: space-around;
+    top: 158px;
+    left : 95%
+} */
+
+/* .vl {
+    position: absolute;
+    border-left: 2px dotted;
+    border-color: white;
+    margin-left: 60px;
+    justify-content: space-around;
+    height: 400px;
+  } */
+
+  .long-scroll{
+      margin-top: 120px;
+  }
+
+.container2{
+    background-color: #DFD5CA;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: -55px;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+
+}
+
+.para{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 200px;
+
+}
+
+.container3{
+    background-color: #2C1D36;
+    display: flex;
+    margin-top: -55px;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+}
+
+
+.container4{
+    background-color: #F0BDB5;
+    margin-top: -55px;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.container5{
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+    background-color: #E98DA4;
+    margin-top: -55px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container6{
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+    background-color: #A5AAB2;
+    margin-top: -55px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container7{
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+    background-color: #1B121F;
+    margin-top: -55px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
+
+.container8{
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+    background-color: #F3B7C6;
+    margin-top: -55px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.container9{
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
+    background-color: #FADCBD;
+    display: flex;
+    flex-direction: column;
+    margin-top: -55px;
+    text-align: center;
+}
+
+.container10{
+    clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
+    margin-top: -80px;
+    background-color: #D2D4D6;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+
+.container11{
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+
+    text-align: center;
+}
+.Brisbane{
+    width: 75%;
+    color: #808285;
+    font-family: monospace;
+    margin-top: 70px;
+    margin-bottom: 60px;
+
+}
+.bottom{
+    display: flex;
+
+    color: #808285;
+    font-family: monospace;
+}
+.august{
+    margin-left: 50px;
+    color: #808285;
+    font-family: monospace;
+    margin-right: 600px;
+}
+a{
+    text-decoration: none;
+    font-family: monospace;
+    font-weight: bold;
+    color: #808285;
+    padding: 10px;
+
+}
+a:hover{
+    color: #17111D;
+    border: 2px solid black;
+
+}
+
+.brief{
+    margin-top: 100px;
+    width: 90%;
+
+    text-align: justify;
+    margin-left: 50px;
+    margin-bottom: 60px;
+}
+.paralink{
+    color: #808285;
+
+    font-family: monospace;
+    width: 20%;
+}
+.street{
+    margin-top: 0px;
+    margin-right: 200px;
+}
+.address{
+    color: #2a2e35;
+    font-family: monospace;
+    font-weight: bold;
+    padding-bottom: 52px;
+}
